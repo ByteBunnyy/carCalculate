@@ -1,0 +1,23 @@
+{
+  "id": "2745032",
+  "name": "基本组件库",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1265484",
+      "name": "加号",
+      "font_class": "jiahao",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "15775551",
+      "name": "减号",
+      "font_class": "jianhao",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    }
+  ]
+}

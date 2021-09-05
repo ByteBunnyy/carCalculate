@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<RCC>
+    <qresource prefix="/">
+        <file alias="havalLogo.png">havalLogo.png</file>
+        <file alias="logo.png">logo.png</file>
+        <file alias="font/iconfont.ttf">font/iconfont.ttf</file>
+        <file alias="font/qtquickcontrols2.conf">font/qtquickcontrols2.conf</file>
+    </qresource>
+</RCC>

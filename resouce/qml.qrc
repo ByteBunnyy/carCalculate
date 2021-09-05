@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>component/MyEditLene.qml</file>
+        <file>component/BodyPage.qml</file>
+        <file>havalLogo.png</file>
+        <file>logo.png</file>
+        <file>font/iconfont.ttf</file>
+        <file>font/qtquickcontrols2.conf</file>
+    </qresource>
+</RCC>

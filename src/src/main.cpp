@@ -5,7 +5,7 @@
 #include <QQuickStyle>
 #include <QDebug>
 
-#include "calculate/calculate.h"
+#include "./calculate.h"
 
 int main(int argc, char *argv[])
 {

@@ -2,7 +2,7 @@
 
 Calculate::Calculate(QObject *parent) : QObject(parent)
 {
-    numResult=0;
+    numResult = 0.0;
 }
 
 int Calculate::calculateAddNum(int addNum)
@@ -20,4 +20,5 @@ int Calculate::calculateSubNum(int subNum)
 void Calculate::btnReset()
 {
     emit sigReset();
+    qDebug() << "emit reset signal! " << endl;
 }
